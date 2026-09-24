@@ -10,6 +10,11 @@ this was my work out and this was copilot's
 function addValue(obj, key) {
   obj[key] = true;
 }
+var myObj = {};
+
+addValue(myObj, 'mykey');
+
+console.log(myObj['mykey']);   // true
 
 
 
