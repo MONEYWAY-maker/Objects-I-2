@@ -1,4 +1,8 @@
 function addValue(obj,key)
 
-var myObj = {};
+var myObj = {}; {
+let key = true};
+
+
+
 
