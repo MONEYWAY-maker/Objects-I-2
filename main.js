@@ -1,3 +1,4 @@
 function addValue(obj,key)
 
-var myObj = 
+var myObj = {};
+
